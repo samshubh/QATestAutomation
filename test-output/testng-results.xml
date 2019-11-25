@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="POM Test Automation" duration-ms="413307" started-at="2019-11-23T15:37:21 IST" finished-at="2019-11-23T15:44:14 IST">
+    <groups>
+    </groups>
+    <test name="TestNGAutomationbyPOM" duration-ms="413307" started-at="2019-11-23T15:37:21 IST" finished-at="2019-11-23T15:44:14 IST">
+      <class name="com.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@7a3d45bd]" name="setUp" is-config="true" duration-ms="20104" started-at="2019-11-23T15:40:39 IST" finished-at="2019-11-23T15:40:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginUserTest()[pri:1, instance:com.qa.test.LoginPageTest@7a3d45bd]" name="loginUserTest" duration-ms="12837" started-at="2019-11-23T15:40:59 IST" finished-at="2019-11-23T15:41:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.LoginPageTest@7a3d45bd]" name="tearDown" is-config="true" duration-ms="758" started-at="2019-11-23T15:41:12 IST" finished-at="2019-11-23T15:41:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.LoginPageTest@7a3d45bd]" name="setUp" is-config="true" duration-ms="21054" started-at="2019-11-23T15:41:13 IST" finished-at="2019-11-23T15:41:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgotPasswordTest()[pri:2, instance:com.qa.test.LoginPageTest@7a3d45bd]" name="forgotPasswordTest" duration-ms="4214" started-at="2019-11-23T15:41:34 IST" finished-at="2019-11-23T15:41:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.LoginPageTest@7a3d45bd]" name="tearDown" is-config="true" duration-ms="1108" started-at="2019-11-23T15:41:38 IST" finished-at="2019-11-23T15:41:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.LoginPageTest -->
+      <class name="com.qa.test.SignUpPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.SignUpPageTest@1e7c7811]" name="setup" is-config="true" duration-ms="21752" started-at="2019-11-23T15:41:39 IST" finished-at="2019-11-23T15:42:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySignUpText()[pri:1, instance:com.qa.test.SignUpPageTest@1e7c7811]" name="verifySignUpText" duration-ms="70" started-at="2019-11-23T15:42:01 IST" finished-at="2019-11-23T15:42:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.SignUpPageTest@1e7c7811]" name="tearDown" is-config="true" duration-ms="771" started-at="2019-11-23T15:42:01 IST" finished-at="2019-11-23T15:42:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.SignUpPageTest@1e7c7811]" name="setup" is-config="true" duration-ms="18590" started-at="2019-11-23T15:42:02 IST" finished-at="2019-11-23T15:42:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateSignUp()[pri:2, instance:com.qa.test.SignUpPageTest@1e7c7811]" name="validateSignUp" duration-ms="13307" started-at="2019-11-23T15:42:20 IST" finished-at="2019-11-23T15:42:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.SignUpPageTest@1e7c7811]" name="tearDown" is-config="true" duration-ms="876" started-at="2019-11-23T15:42:34 IST" finished-at="2019-11-23T15:42:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.SignUpPageTest -->
+      <class name="com.qa.test.ForgotPasswordTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="setUp" is-config="true" duration-ms="31616" started-at="2019-11-23T15:42:35 IST" finished-at="2019-11-23T15:43:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyForgotPasswordText()[pri:1, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="verifyForgotPasswordText" duration-ms="62" started-at="2019-11-23T15:43:06 IST" finished-at="2019-11-23T15:43:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="tearDown" is-config="true" duration-ms="750" started-at="2019-11-23T15:43:06 IST" finished-at="2019-11-23T15:43:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="setUp" is-config="true" duration-ms="32321" started-at="2019-11-23T15:43:07 IST" finished-at="2019-11-23T15:43:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEmailidField()[pri:2, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="verifyEmailidField" duration-ms="4326" started-at="2019-11-23T15:43:39 IST" finished-at="2019-11-23T15:43:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailidField -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="tearDown" is-config="true" duration-ms="785" started-at="2019-11-23T15:43:44 IST" finished-at="2019-11-23T15:43:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="setUp" is-config="true" duration-ms="24392" started-at="2019-11-23T15:43:45 IST" finished-at="2019-11-23T15:44:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySubmitButton()[pri:3, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="verifySubmitButton" duration-ms="4510" started-at="2019-11-23T15:44:09 IST" finished-at="2019-11-23T15:44:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubmitButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.ForgotPasswordTest@77ec78b9]" name="tearDown" is-config="true" duration-ms="810" started-at="2019-11-23T15:44:13 IST" finished-at="2019-11-23T15:44:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.ForgotPasswordTest -->
+      <class name="com.qa.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="22029" started-at="2019-11-23T15:37:21 IST" finished-at="2019-11-23T15:37:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="kiposLogoTest()[pri:1, instance:com.qa.test.HomePageTest@50d0686]" name="kiposLogoTest" duration-ms="1373" started-at="2019-11-23T15:37:43 IST" finished-at="2019-11-23T15:37:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiposLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="1256" started-at="2019-11-23T15:37:44 IST" finished-at="2019-11-23T15:37:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="26077" started-at="2019-11-23T15:37:46 IST" finished-at="2019-11-23T15:38:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="kiposTitleTest()[pri:2, instance:com.qa.test.HomePageTest@50d0686]" name="kiposTitleTest" duration-ms="31" started-at="2019-11-23T15:38:12 IST" finished-at="2019-11-23T15:38:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiposTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="1738" started-at="2019-11-23T15:38:12 IST" finished-at="2019-11-23T15:38:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="34252" started-at="2019-11-23T15:38:14 IST" finished-at="2019-11-23T15:38:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signUpButtonTest()[pri:3, instance:com.qa.test.HomePageTest@50d0686]" name="signUpButtonTest" duration-ms="471" started-at="2019-11-23T15:38:48 IST" finished-at="2019-11-23T15:38:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="969" started-at="2019-11-23T15:38:48 IST" finished-at="2019-11-23T15:38:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="18424" started-at="2019-11-23T15:38:49 IST" finished-at="2019-11-23T15:39:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginButtonText()[pri:4, instance:com.qa.test.HomePageTest@50d0686]" name="loginButtonText" duration-ms="89" started-at="2019-11-23T15:39:08 IST" finished-at="2019-11-23T15:39:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="1141" started-at="2019-11-23T15:39:08 IST" finished-at="2019-11-23T15:39:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="19434" started-at="2019-11-23T15:39:09 IST" finished-at="2019-11-23T15:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gourmetProductsTextTest()[pri:5, instance:com.qa.test.HomePageTest@50d0686]" name="gourmetProductsTextTest" duration-ms="74" started-at="2019-11-23T15:39:28 IST" finished-at="2019-11-23T15:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gourmetProductsTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="795" started-at="2019-11-23T15:39:28 IST" finished-at="2019-11-23T15:39:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="20544" started-at="2019-11-23T15:39:29 IST" finished-at="2019-11-23T15:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gourmetProductsTest()[pri:6, instance:com.qa.test.HomePageTest@50d0686]" name="gourmetProductsTest" duration-ms="4940" started-at="2019-11-23T15:39:50 IST" finished-at="2019-11-23T15:39:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gourmetProductsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="890" started-at="2019-11-23T15:39:55 IST" finished-at="2019-11-23T15:39:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="15943" started-at="2019-11-23T15:39:56 IST" finished-at="2019-11-23T15:40:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginButtonTest()[pri:7, instance:com.qa.test.HomePageTest@50d0686]" name="loginButtonTest" duration-ms="4315" started-at="2019-11-23T15:40:12 IST" finished-at="2019-11-23T15:40:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="795" started-at="2019-11-23T15:40:16 IST" finished-at="2019-11-23T15:40:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="setUp" is-config="true" duration-ms="17453" started-at="2019-11-23T15:40:17 IST" finished-at="2019-11-23T15:40:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignUpButton()[pri:8, instance:com.qa.test.HomePageTest@50d0686]" name="verifySignUpButton" duration-ms="4325" started-at="2019-11-23T15:40:34 IST" finished-at="2019-11-23T15:40:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@50d0686]" name="tearDown" is-config="true" duration-ms="774" started-at="2019-11-23T15:40:38 IST" finished-at="2019-11-23T15:40:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.HomePageTest -->
+    </test> <!-- TestNGAutomationbyPOM -->
+  </suite> <!-- POM Test Automation -->
+</testng-results>

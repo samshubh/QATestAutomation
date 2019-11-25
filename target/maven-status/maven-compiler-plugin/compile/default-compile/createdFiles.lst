@@ -1,0 +1,16 @@
+com\qa\pages\LoginPage.class
+com\qa\util\ExtentReporterNG.class
+com\qa\pages\MyOrdersPage.class
+com\qa\pages\SignUpPage.class
+com\qa\pages\ForgotPassword.class
+com\qa\util\WebEventListener.class
+com\qa\pages\CartPage.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\pages\MyAccountPage.class
+com\qa\pages\ThankYouPage.class
+com\qa\pages\ChangePasswordPage.class
+com\qa\pages\CheckoutPage.class
+com\qa\pages\ProductsPage.class
+com\qa\pages\LandingPage.class
+com\qa\base\TestBase.class

@@ -1,0 +1,12 @@
+com\qa\test\CartPageTest.class
+com\qa\test\ChangePasswordPageTest.class
+com\qa\test\MyAccountPageTest.class
+com\qa\test\CheckoutPageTest.class
+com\qa\test\SignUpPageTest.class
+com\qa\test\LoginPageTest.class
+com\qa\test\ProductsPageTest.class
+com\qa\test\HomePageTest.class
+com\qa\test\MyOrdersPageTest.class
+com\qa\test\ThankYouPageTest.class
+com\qa\test\LandingPageTest.class
+com\qa\test\ForgotPasswordTest.class

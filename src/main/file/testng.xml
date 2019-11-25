@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POM Test Automation" verbose="1" >
+  
+  
+  <listeners>
+  
+    <listener class-name="com.qa.util.ExtentReporterNG"/>
+  
+  </listeners>
+  
+  <test name="TestNGAutomationbyPOM" >
+    <classes>
+      <class name="com.qa.test.HomePageTest"/>
+      <class name="com.qa.test.LoginPageTest"/>
+      <class name="com.qa.test.SignUpPageTest"/>
+      <class name="com.qa.test.ForgotPasswordTest"/>
+    </classes>
+    
+ </test>
+</suite>
